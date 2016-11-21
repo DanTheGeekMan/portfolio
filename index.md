@@ -3,7 +3,7 @@ layout: home
 title: Home
 <!-- landing-title: Hi, my name is Forty -->
 landing-title: Hi, welcome to my Portfolio.
-description: This is my Web Development Portfolio.
+description: 
 <!-- image: https://avatars3.githubusercontent.com/u/19929524?v=3&s=460 -->
 author: DanTheGeekMan
 nav-menu:
@@ -43,7 +43,7 @@ nav-menu:
 		<p>Get in touch or find out more about me using the icons below. I am available on Twitter and feel free to browse my projects on GitHub and view my profile and get in touch on LinkedIn.</p>
 
 		<p>As always, my work is made with love.</p>
-		
+
 	</div>
 </section>
 
