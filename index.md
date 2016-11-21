@@ -34,12 +34,16 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Want to know more about me</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="landing.html" class="button next">Get Started</a></li>
-		</ul>
+		<p>I'm a junior web developer, with a past as a systems administrator of Linux and Windows systems.  I have worked in IT in some way shape or form for over 10 years.  You name it, I've probably done it; field engineer, tech support and systems administrator.</p>
+
+		<p>I took the decision to become a web developer, changing the direction of my life and put myself on the path to achieve my dream: creating tools that solve peoples problems. I am focused on problem-solving challenges. I am looking for a position that will test my abilities and where I will have to grow to succeed. I am looking not only for exciting touch problems to solve but also an energetic team to work with, learn from and share my knowledge with. Within the next 5 years, my goal is to become a domain expert, while mentoring those around me and encouraging them to step up and do the same.</p>
+
+		<p>Get in touch or find out more about me using the icons below. I am available on Twitter and feel free to browse my projects on GitHub and view my profile and get in touch on LinkedIn.</p>
+
+		<p>As always, my work is made with love.</p>
+		
 	</div>
 </section>
 
