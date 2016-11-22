@@ -11,7 +11,7 @@ title-bold: DanTheGeekMan
 email: dan@danthegeekman.com
 description: I am a Junior Web Developer and this is my portfolio.  Get a mug of coffee and have a look around ;-)
 # baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-baseurl: "https://danthegeekman.gitlab.io"
+baseurl: ""
 url: "https://danthegeekman.gitlab.io" # the base hostname & protocol for your site
 author: Dan Rogers
 # street_address: 1234 Somewhere Road
